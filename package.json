@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "name": "shoot-the-breeze",
   "version": "1.0.0",
   "description": "A starter kit for Turing School's Shoot The Breeze project",
@@ -58,5 +59,22 @@
     "style-loader": "^0.13.1",
     "webpack": "^1.13.2",
     "webpack-dev-server": "^1.15.2"
+=======
+  "name": "react-wish-list",
+  "version": "0.1.0",
+  "private": true,
+  "devDependencies": {
+    "react-scripts": "0.8.4"
+  },
+  "dependencies": {
+    "react": "^15.4.1",
+    "react-dom": "^15.4.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+>>>>>>> 7c9d46f09ba50e29ec23f710d6da827aeaa2410b
   }
 }

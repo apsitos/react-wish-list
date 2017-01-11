@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .nyc_output
 
 # Logs
@@ -29,3 +30,20 @@ build/Release
 node_modules
 .DS_Store
 *.bundle.js
+=======
+# See http://help.github.com/ignore-files/ for more about ignoring files.
+
+# dependencies
+node_modules
+
+# testing
+coverage
+
+# production
+build
+
+# misc
+.DS_Store
+.env
+npm-debug.log
+>>>>>>> 7c9d46f09ba50e29ec23f710d6da827aeaa2410b
